@@ -4,7 +4,7 @@
 
 import requests, re , colorama
 colorama.init()
-print(""" \033[1;34m \033[1;34m
+print(""" \033 [91;1m \033 [91;1m
                           
                               
     
